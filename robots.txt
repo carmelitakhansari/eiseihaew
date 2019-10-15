@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengeighu.hyc1996.xyz/sitemap.xml
